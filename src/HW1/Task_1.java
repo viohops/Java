@@ -29,6 +29,7 @@ public class Task_1 {
             num = num * i;
         }
         System.out.println(num);
+
     }
 
     //Вывести все простые числа от 1 до 1000
